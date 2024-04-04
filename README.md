@@ -7,7 +7,7 @@ Temos uma area voltada designer que onde você pode criar imagem atraves sua ima
 
 O Vacation planner, onde você pode ver os melhores locais para suas ferias.
 <img src="inputs/Captura de tela 2024-04-03 213611.png" alt="Texto Alternativo">
-inputs/Captura de tela 2024-04-03 212636.png
+
 Cooking assistant
 Ajuda a encontrar receitas, criar planos de refeições e obter dicas de culinária e truques.
 <img src="inputs/Captura de tela 2024-04-03 212636.png" alt="Texto Alternativo">
